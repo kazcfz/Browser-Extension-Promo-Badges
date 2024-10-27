@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:realworld="http://www.rw-designer.com/export-svg" width="5768px" height="1624px">
+  <defs>
+    <linearGradient id="G0" gradientUnits="userSpaceOnUse" x1="-145081" x2="-145081" y1="-109035" y2="-108066">
+      <stop offset="0%" stop-color="#ff1b2d" />
+      <stop offset="29.9992%" stop-color="#ff1b2d" />
+      <stop offset="43.8087%" stop-color="#fa1a2c" />
+      <stop offset="59.3896%" stop-color="#ed1528" />
+      <stop offset="75.8099%" stop-color="#d60e21" />
+      <stop offset="92.7199%" stop-color="#b70519" />
+      <stop offset="100%" stop-color="#a70014" />
+    </linearGradient>
+    <linearGradient id="G1" gradientUnits="userSpaceOnUse" x1="-144830" x2="-144830" y1="-108978" y2="-108121">
+      <stop offset="0%" stop-color="#9c0000" />
+      <stop offset="69.9992%" stop-color="#ff4b4b" />
+      <stop offset="100%" stop-color="#ff4b4b" />
+    </linearGradient>
+  </defs>
+  <g inkscape:groupmode="layer" inkscape:label="opera_Icon_full-color_red_rgb">
+    <g inkscape:groupmode="layer" inkscape:label="layer 0">
+      <rect fill="#fbfafa" height="1624" realworld:stroke-pos="-1" stroke="#d2cece" stroke-linejoin="round" stroke-width="20" width="5768" x="0" y="0" />
+    </g>
+    <g inkscape:groupmode="layer" inkscape:label="layer 1">
+      <text dominant-baseline="text-before-edge" fill="#797979" font-family="Basis Grotesque Arabic Pro Blk" font-size="360" text-anchor="start" x="1624" y="320">Get it from</text>
+      <text dominant-baseline="text-before-edge" fill="#191919" font-family="Basis Grotesque Arabic Pro Blk" font-size="495" text-anchor="start" x="1628" y="680">Opera add-ons</text>
+    </g>
+    <g>
+      <path d="M 647.719 1094.01C 592.419 1028.71 556.619 932.314 554.219 824.014C 554.219 823.714 554.219 800.714 554.219 800.414C 556.619 692.114 592.419 595.714 647.719 530.414C 719.519 437.314 826.119 378.214 945.119 378.214C 1018.32 378.214 1086.92 400.614 1145.52 439.514C 1057.52 360.714 941.519 312.714 814.219 312.214C 813.619 312.214 812.919 312.214 812.319 312.214C 536.219 312.214 312.318 536.114 312.318 812.214C 312.318 1080.41 523.419 1299.21 788.519 1311.61C 796.419 1312.01 804.319 1312.21 812.319 1312.21C 940.319 1312.21 1057.12 1264.11 1145.52 1185.01C 1086.92 1223.81 1018.42 1246.21 945.119 1246.21C 826.119 1246.21 719.519 1187.11 647.719 1094.01 z" fill="url(#G0)" fill-rule="evenodd" />
+      <path d="M 647.719 530.414C 693.619 476.214 752.819 443.614 817.619 443.614C 963.219 443.614 1081.12 608.614 1081.12 812.214C 1081.12 1015.81 963.119 1180.81 817.619 1180.81C 752.919 1180.81 693.619 1148.11 647.719 1094.01C 719.519 1187.11 826.119 1246.21 945.119 1246.21C 1018.32 1246.21 1086.92 1223.81 1145.52 1185.01C 1247.92 1093.41 1312.32 960.314 1312.32 812.214C 1312.32 664.114 1247.92 531.014 1145.52 439.514C 1086.92 400.614 1018.42 378.214 945.119 378.214C 826.119 378.214 719.519 437.314 647.719 530.414 z" fill="url(#G1)" fill-rule="evenodd" />
+    </g>
+  </g>
+</svg>
