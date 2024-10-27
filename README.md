@@ -25,3 +25,7 @@ A collection of browser promotional badges including "Available in the Chrome We
 <p align="left">
   <img src="https://raw.githubusercontent.com/kazcfz/Browser-Promotional-Badges/refs/heads/main/Opera/Add-ons/addons_206x58_en%402x.png" height="60px">
 </p>
+
+<br><br><br>
+## Disclaimer
+These badges are trademarks or copyrighted materials owned by their respective companies. This repository is for archiving purposes only. No ownership is claimed, and this collection is not affiliated with any of the respective brands.
